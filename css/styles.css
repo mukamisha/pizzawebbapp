@@ -65,7 +65,7 @@ img{
 }
 #order{
     width:50%;
-    height:300px;
+    height:500px;
     background-color:white;
     border:2px 2px solid black;
     border-radius: 10px 10px;
@@ -73,10 +73,6 @@ img{
     margin-top:80px;
 
 }
-/* .container2{
-background-image:url("https://images8.alphacoders.com/369/369063.jpg");
-background-repeat:no-repeat;
-background-size:cover;
-height:500px;
-width:100%; */
+.div4{
+    margin-left:100px;
 }

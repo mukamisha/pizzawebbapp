@@ -25,15 +25,25 @@ ul {
 .container1{
     background-image:url("https://img1.wsimg.com/isteam/stock/2999/:/");
     width:100%;
-    height:1000px;
+    height:100%;
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 .div1{
-    color:white;
-    font-size: 100px;
+    width:50%;
+    background-color:white;
+    color:black;
+    font-size:50px;
+    font-family:sans-serif;
+    border:2px 2px solid black;
+    border-radius: 80px 80px;
+    margin-left:280px;
+    margin-top:40px;
 
 }
 .div2{
     color:white;
+    
 }
 
 
@@ -50,6 +60,23 @@ img{
     width:270px;
     height:200px;
 }
+.p1{
+    font-size:50px;color:white;
+}
+#order{
+    width:50%;
+    height:300px;
+    background-color:white;
+    border:2px 2px solid black;
+    border-radius: 10px 10px;
+    margin-left:250px;
+    margin-top:80px;
 
-
-
+}
+/* .container2{
+background-image:url("https://images8.alphacoders.com/369/369063.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+height:500px;
+width:100%; */
+}

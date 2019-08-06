@@ -11,6 +11,9 @@ $("#PlaceOrder").click(function(hi){
     }
     hi.preventDefault();
 });
-if(siz==="Small"){
-    
-}
+
+$("#delivery").click(function(hey){
+    prompt("please enter your location");
+    alert("congratulations we will reach to you soon");
+    hey.preventDefault();
+});

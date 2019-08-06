@@ -7,4 +7,5 @@ is a webpage where where people order pizza online and we deliver them to their 
 ## SETUP INSTALLATION REQUIREMENT:
     *UBUNTU
      *VISIO STUDIO CODE
-  
+    *GOOGLE CHROME
+

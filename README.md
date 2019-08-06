@@ -23,4 +23,10 @@ is a webpage where where people order pizza online and we deliver them to their 
     *after placing an order click on delivery 
     *if you click on delivery button we will ask you your location to know where we can find you
     *after this we will notify you with an alert message to comfirm your order
+ ## this is my project link
+ https://github.com/mukamisha/pizzawebbapp/tree/gh-pages
 
+ ## SUPPORT AND CONTACT
+ email: mukamishajacky97@gmail.com
+ ## LISENCE
+ lisenced by copyright@2019

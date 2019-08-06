@@ -9,4 +9,5 @@ is a webpage where where people order pizza online and we deliver them to their 
      *VISIO STUDIO CODE
     *GOOGLE CHROME
 ## TECHNOLOGY USED:
-  
+    *HTML
+   

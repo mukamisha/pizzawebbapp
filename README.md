@@ -10,4 +10,5 @@ is a webpage where where people order pizza online and we deliver them to their 
     *GOOGLE CHROME
 ## TECHNOLOGY USED:
     *HTML
+    *CSS
    

@@ -20,4 +20,6 @@ is a webpage where where people order pizza online and we deliver them to their 
     *select toppings
     *select the numnber of pizza you want
     *then place order
+    *after placing an order click on delivery 
     
+
